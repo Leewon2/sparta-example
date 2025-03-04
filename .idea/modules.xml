@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/b.main.iml" filepath="$PROJECT_DIR$/.idea/modules/b.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sparta-example.iml" filepath="$PROJECT_DIR$/.idea/sparta-example.iml" />
+    </modules>
+  </component>
+</project>
