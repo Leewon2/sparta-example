@@ -31,6 +31,15 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/redis-cache" />
+        <option name="gradleJvm" value="azul-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/redis-cache" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/redis-leaderboard" />
         <option name="modules">
           <set>
