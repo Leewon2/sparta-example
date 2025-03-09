@@ -4,6 +4,9 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/docker_example/a" />
     <file type="web" url="file://$PROJECT_DIR$/docker_example/b" />
+    <file type="web" url="file://$PROJECT_DIR$/rabbitmq/order" />
+    <file type="web" url="file://$PROJECT_DIR$/rabbitmq/payment" />
+    <file type="web" url="file://$PROJECT_DIR$/rabbitmq/product" />
     <file type="web" url="file://$PROJECT_DIR$/redis" />
     <file type="web" url="file://$PROJECT_DIR$/redis-cache" />
     <file type="web" url="file://$PROJECT_DIR$/redis-leaderboard" />

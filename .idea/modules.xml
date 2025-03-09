@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/a.main.iml" filepath="$PROJECT_DIR$/.idea/modules/a.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/b.main.iml" filepath="$PROJECT_DIR$/.idea/modules/b.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-cache.main.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-cache.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-leaderboard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-leaderboard.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis.main.iml" filepath="$PROJECT_DIR$/.idea/modules/redis.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sparta-example.iml" filepath="$PROJECT_DIR$/.idea/sparta-example.iml" />
     </modules>

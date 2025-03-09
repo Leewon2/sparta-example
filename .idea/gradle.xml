@@ -22,6 +22,30 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rabbitmq/order" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/rabbitmq/order" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rabbitmq/payment" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/rabbitmq/payment" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rabbitmq/product" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/rabbitmq/product" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/redis" />
         <option name="gradleJvm" value="azul-17" />
         <option name="modules">
