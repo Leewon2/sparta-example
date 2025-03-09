@@ -4,6 +4,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/docker_example/a" />
     <file type="web" url="file://$PROJECT_DIR$/docker_example/b" />
+    <file type="web" url="file://$PROJECT_DIR$/kafka/consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/kafka/producer" />
     <file type="web" url="file://$PROJECT_DIR$/rabbitmq/order" />
     <file type="web" url="file://$PROJECT_DIR$/rabbitmq/payment" />
     <file type="web" url="file://$PROJECT_DIR$/rabbitmq/product" />
