@@ -40,4 +40,5 @@ public class OrderApplicationQueueConfig {
     public Binding bindingPayment(){
         return BindingBuilder.bind(queuePayment()).to(exchange()).with(queuePayment);
     }
+
 }

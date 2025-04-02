@@ -21,7 +21,7 @@ public class ConsumerApplicationKafkaConfig {
     // ConsumerFactory는 Kafka 컨슈머 인스턴스를 생성하는 데 사용됩니다.
     // 각 컨슈머는 이 팩토리를 통해 생성된 설정을 기반으로 작동합니다.
     @Bean
-    public ConsumerFactory<String, String> consumerFactory() {
+        public ConsumerFactory<String, String> consumerFactory() {
         // 컨슈머 팩토리 설정을 위한 맵을 생성합니다.
         Map<String, Object> configProps = new HashMap<>();
         // Kafka 브로커의 주소를 설정합니다.
